@@ -1,0 +1,31 @@
+Devangi Das - Portfolio Website
+
+
+This is my portfolio website where I showcase my skills, projects, and experience.
+
+Live URL
+The live version of the website can be accessed at https://devangidas.github.io/.
+
+Technologies Used
+The website was built using the following technologies:
+HTML
+CSS
+Sass
+
+Features
+The website has the following features:
+Home page with a brief introduction and links to my social media profiles
+About page with a summary of my skills and experience
+Projects page showcasing my portfolio projects with descriptions and links
+Contact page with a form for visitors to send me a message
+
+Local Development
+To run the website locally, follow these steps:
+Clone the GitHub repository to your local machine:
+git clone https://github.com/DevangiDas/DevangiDas.github.io.git
+Open the index.html file in your web browser.
+Make changes to the HTML, CSS, or JavaScript files as needed, and reload the page in your browser to see the changes.
+
+
+Credits
+The website was built by Devangi Das.
