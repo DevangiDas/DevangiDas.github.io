@@ -212,7 +212,7 @@ img {
       border-color: #F09440; }
 
 #header-home {
-  background: url("../img/red.jpg") no-repeat center right/cover;
+  background: url("../img/key_board.jpg") no-repeat center right/cover;
   height: 100vh;
   color: #fff; }
   #header-home .header-content {
@@ -223,7 +223,7 @@ img {
       line-height: 1.2; }
 
 #header-inner {
-  background: url("../img/red.jpg") no-repeat 20% 30%/cover;
+  background: url("../img/key_board.jpg") no-repeat 20% 30%/cover;
   height: 5.5rem;
   border-bottom: 3px solid #ffbc00; }
 
@@ -389,6 +389,7 @@ img {
     align-items: center; }
     #main-footer .footer-content .social .fab {
       margin-right: 1rem;
+      color: #f4f4f4;
       border: 2px #fff solid;
       border-radius: 50%;
       height: 20px;
