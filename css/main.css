@@ -132,8 +132,8 @@ input[class^='btn-']:hover {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: auto;
+    width: 98%;
+    height: 98%;
     line-height: 0; }
   .item-text {
     position: absolute;
@@ -293,7 +293,8 @@ img {
 
 #about-a .about-info {
   display: grid;
-  grid-template-areas: 'bioimage bio bio bio' 'aw1 aw2 aw3 aw4 ';
+  grid-template-areas: 'bioimage bio bio bio'
+ 'aw1 aw2 aw3 aw4 ';
   grid-gap: 1.2rem; }
 
 #about-a .bio-image {
@@ -349,7 +350,9 @@ img {
 
 #contact-a .text-fields {
   display: grid;
-  grid-template-areas: 'name email' 'subject phone' 'message message';
+  grid-template-areas: 'name email'
+ 'subject phone'
+ 'message message';
   grid-gap: 1.2rem;
   margin-bottom: 1.2rem; }
   #contact-a .text-fields .name-input {
@@ -436,11 +439,19 @@ img {
   #home-b .stats div {
     padding: 2rem 0 1rem 0; }
   #about-a .about-info {
-    grid-template-areas: 'bioimage' 'bio' 'aw1' 'aw2' 'aw3'; }
+    grid-template-areas: 'bioimage'
+ 'bio'
+ 'aw1'
+ 'aw2'
+ 'aw3'; }
   #about-c {
     display: none; }
   #contact-a .text-fields {
-    grid-template-areas: 'name' 'subject' 'email' 'phone' 'message'; }
+    grid-template-areas: 'name'
+ 'subject'
+ 'email'
+ 'phone'
+ 'message'; }
   #contact-b div {
     margin-bottom: 1rem;
     padding-bottom: 1rem;
